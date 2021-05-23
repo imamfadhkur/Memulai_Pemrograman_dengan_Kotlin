@@ -1,0 +1,44 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Enumeration/Enum Object Value/build/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/out/
+/Control Flow/Latihan/Latihan/out/production/classes/
+/Control Flow/Range and For loop/For Loop Index/build/
+/Control Flow/While and Do While/Infinite While/build/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Latihan/latihan/out/
+/Data Class dan Collections/Latihan/latihan/out/production/classes/
+/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/build/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/Raw String/out/
+/Kotlin Fundamental/Data Type/Raw String/out/production/classes/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/If Expression/If as a Expression/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/out/
+/Kotlin Fundamental/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/out/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
